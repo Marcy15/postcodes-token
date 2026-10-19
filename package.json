@@ -1,0 +1,12 @@
+{
+  "name": "postcodes-api-documentation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docs": "apidoc -i app/Http/Controllers/Api -o public/apidoc -c .",
+    "docs:help": "apidoc -h"
+  },
+  "devDependencies": {
+    "apidoc": "^1.2.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Postcodes REST API",
+  "version": "1.0.0",
+  "description": "Magyar irányítószám- és megye REST API (Laravel / Sanctum)",
+  "title": "Postcodes REST API - apiDoc",
+  "url": "http://127.0.0.1:8000",
+  "sampleUrl": "http://127.0.0.1:8000",
+  "order": [
+    "Auth",
+    "Counties",
+    "Cities"
+  ]
+}
